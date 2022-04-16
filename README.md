@@ -2,7 +2,7 @@
 
 I am essentially maintaining a copy of https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f#whats-an-effective-engineer in case it ever gets deleted or moved and I can't find it
 
---
+---
 
 
 *FWIW: I'm not the author of the content presented here (which is an outline from Edmond Lau's book). I've just copy-pasted it from somewhere over the Internet, but I cannot remember what exactly the original source is. I was also not able to find the author's name, so I cannot give him/her the proper credits.*
